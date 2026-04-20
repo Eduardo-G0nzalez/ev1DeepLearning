@@ -1,5 +1,7 @@
 # Clasificación de Personajes de Los Simpsons con CNN
 
+
+
 Este proyecto implementa una Red Neuronal Convolucional (CNN) diseñada para clasificar imágenes de 18 personajes diferentes de la serie "Los Simpsons". El modelo fue desarrollado como parte de la Evaluación 1 de la asignatura Deep Learning en Duoc UC.
 
 ## 🚀 Descripción del Proyecto
@@ -7,6 +9,7 @@ Este proyecto implementa una Red Neuronal Convolucional (CNN) diseñada para cla
 El objetivo principal de este trabajo es comparar el rendimiento entre un Perceptrón Multicapa (MLP) y una arquitectura Convolucional (CNN), demostrando cómo esta última es superior para tareas de visión computacional al conservar la jerarquía espacial de los píxeles mediante el uso de filtros.
 
 ### Características Clave:
+
 - **Dataset:** Imágenes de 64x64 píxeles procesadas con OpenCV.
 - **Arquitectura:** CNN profunda con 3 bloques convolucionales crecientes.
 - **Optimizaciones:** Implementación de Batch Normalization y Dropout progresivo para estabilizar el aprendizaje y mitigar el sobreajuste.
@@ -17,8 +20,9 @@ El objetivo principal de este trabajo es comparar el rendimiento entre un Percep
 * [Python](https://www.python.org/) - Lenguaje de programación.
 * [TensorFlow / Keras](https://www.tensorflow.org/) - Framework principal de Deep Learning.
 * [OpenCV](https://opencv.org/) - Procesamiento y normalización de imágenes.
-* [Scikit-Learn](https://scikit-learn.org/) - Generación de métricas (Precision, Recall, F1) y Matriz de Confusión.
 * [Google Colab](https://colab.research.google.com/) - Entrenamiento con soporte de GPU.
+* [Scikit-Learn](https://scikit-learn.org/) - Generación de métricas (Precision, Recall, F1) y Matriz de Confusión.
+
 
 ## 📊 Arquitectura del Modelo
 
