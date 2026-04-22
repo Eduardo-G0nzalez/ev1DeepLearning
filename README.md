@@ -1,5 +1,7 @@
 # Clasificación de Personajes de Los Simpsons: Estudio Comparativo CNN vs. MLP
 
+Link drive (compartido al profesor): [https://drive.google.com/drive/folders/1YzJ-F6BnRasTDSS3cOAvW2ZUps6t0rIb?usp=sharing](https://drive.google.com/drive/folders/1YzJ-F6BnRasTDSS3cOAvW2ZUps6t0rIb?usp=sharing)
+
 Este proyecto implementa y contrasta dos arquitecturas de Deep Learning diseñadas para clasificar imágenes de 18 personajes diferentes de la serie "Los Simpsons". El modelo fue desarrollado como parte de la Evaluación 1 de la asignatura Deep Learning en Duoc UC.
 
 ## 🚀 Descripción del Proyecto
